@@ -1835,7 +1835,7 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
 		background-color: transparent;
-		border: solid 1px !important;
+		border: solid 5px !important;
 		border-color: rgba(255, 255, 255, 0.15) !important;
 		border-radius: 3em;
 		color: #ffffff !important;
@@ -3486,28 +3486,47 @@ input, select, textarea {
 		.wrapper.alt {
 			background-color: #261c3e;
 		}
-
+		/*About Me*/
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #8c1637;
 		}
 
 		.wrapper.style1-alt {
 			background-color: #493382;
 		}
 
+		/*Projects*/
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #afccdc;
 		}
 
 		.wrapper.style2-alt {
 			background-color: #3e4094;
 		}
 
+		/*Courses*/
 		.wrapper.style3 {
 			background-color: #b74e91;
 		}
 
 		.wrapper.style3-alt {
+			background-color: #953d75;
+		}
+		/*Interests*/
+		.wrapper.style4 {
+			background-color: #ffd0cc;
+		}
+
+		.wrapper.style4-alt {
+			background-color: #5a84b6;
+		}
+
+		/*Work Experience*/
+		.wrapper.style5 {
+			background-color: #5a84b6;
+		}
+
+		.wrapper.style5-alt {
 			background-color: #953d75;
 		}
 
